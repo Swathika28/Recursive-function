@@ -1,6 +1,8 @@
-# Recursive-function
+# EX-7 Recursive-function
+## Date:
 
-## Aim: To write a C# program to reverse a number using recursive function.
+## Aim: 
+To write a C# program to reverse a number using recursive function.
 
 ## Algorithm:
 ### Step 1:
